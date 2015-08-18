@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Garbage Development</title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<h1><---Garbage Development---></h1>
+<p><h3><a href="https://github.com/GarbageKing">My Github</a></h3></p>
+<p><h3><a href="/">Main Page</a></h3></p>
+<p><h2>Forbid.</h2></p>
+<p><image src="http://2.bp.blogspot.com/-zLmSedA884U/VdMWFAaVhwI/AAAAAAAAAQY/IzOthRHGIgY/s1600/forn.png"/></p>
+<p>This is a program made of three components: batch file, Powershell script, XML-file. After executing the batch file what you're gonna get is fully automatic change of the Group Policy, and blocking programs from companies set in XML-file. Source is on my Github.</p>
+</body>
+</html>
