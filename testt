@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Garbage Development</title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<h1><---Garbage Development---></h1>
+<p><h3><a href="https://github.com/GarbageKing">My Github</a></h3></p>
+<p><h3><a href="/">Main Page</a></h3></p>
+<p><h2>Test theme.</h2></p>
+<p><image src="http://3.bp.blogspot.com/-vsnIaaACMPk/VeiIH_r8ewI/AAAAAAAAAUI/qQ3QhLyI6J4/s1600/123.png"/></p>
+<p><image src="http://4.bp.blogspot.com/-SKY3KgUkOXM/VeiILJHFnkI/AAAAAAAAAUQ/DnF-X_4iIaQ/s1600/456.png"/></p>
+<p>Custom Wordpress theme made of HTML5, CSS, PHP and jQuery. Just a simple landing page. You can find the code on my github.</p>
+</body>
+</html>
