@@ -2,9 +2,69 @@
 {
  width: 60%;
  height: auto;
+ display: block;
+ margin: 0 auto;
 }
 
-#home
+.navbar
 {
-text-align: center;
+background-color: #391A5A;
+}
+
+.navbar a
+{
+color: #fff !important;
+}
+
+.navbar .active a
+{
+color: #391A5A !important;
+}
+
+#jobs .col-md-4
+{
+text-align: justify;
+border: 1px dashed;
+height: 300px;
+overflow: auto;
+}
+
+#learning img
+{
+width:100%;
+height: auto;
+}
+
+#learning .col-md-4
+{
+height: 300px;
+}
+
+@media (min-width:992px){
+
+#jobs .col-md-4:nth-child(1), #jobs .col-md-4:nth-child(2)
+{
+border-bottom:none;
+border-right:none;
+}
+
+#jobs .col-md-4:nth-child(3)
+{
+border-bottom:none;
+}
+
+#jobs .col-md-4:nth-child(4), #jobs .col-md-4:nth-child(5)
+{
+border-right:none;
+}
+
+}
+
+@media (max-width:991px){
+
+#jobs .col-md-4:not(:last-child) 
+{ 
+border-bottom:none;
+}
+
 }
