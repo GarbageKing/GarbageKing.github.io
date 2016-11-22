@@ -40,12 +40,12 @@ height: auto;
 height: 300px;
 }
 
-.poetry
+/*.poetry
 {
 text-align:justify;
-}
+}*/
 
-.poetry-title
+.poetry-title, .poetry
 {
 text-align:center;
 }
