@@ -1,22 +1,73 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8">
   <title>GarbageKing - Главная</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
-  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
   <body>
-    <div id="home" class="container-fluid">
+     
+	<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+      <a class="navbar-brand" href="#">GarbageKing</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#">Главная</a></li>
+        <li><a href="jobs.html">Работа</a></li>
+        <li><a href="projects.html">Личные проекты</a></li> 
+        <li><a href="learning.html">Обучение</a></li> 
+	<li><a href="misc.html">Другое</a></li>
+      </ul>      
+    </div>
+  </div>
+</div>
+</nav>
+
+<div class="container-fluid">
+    <div id="home" >
       <div class="row">
         <div class="col-md-6">
-          <img id="den-img" src="/img/den.jpg"/>
+          <img id="den-img" src="img/den.jpg"/>
         </div>
         <div class="col-md-6">
+	  <h2>Обо мне</h2>
           <p>
-            Я Денис Вовченко и я Web- и немножко Game-dev.
+            Я Денис Вовченко и я Web- и немного Game-dev из Днепропетровской (Днепровской) области Украины.<br/>
+	    Дальше я перечислю несколько айпишных слов:
           </p>
+	  <ul>
+		<li>HTML5/CSS3</li>
+		<li>PHP</li>		
+		<li>JavaScript/jQuery</li>
+		<li>Bootstrap</li>
+		<li>SQL(My, MS)</li>
+		<li>CMS(WordPress, Magento, Joomla, OpenCart...)</li>
+		<li>ASP.NET</li>
+		<li>Yii2</li>
+		<li>C#</li>
+		<li>Unity3d</li>
+		<li>Less/Sass</li>
+		<li>GIT</li>
+		<li>Bower</li>
+		<li>OS: Windows, Linux, Android</li>
+          </ul>
+	  <p>
+	     Работал/работаю, так или иначе, со всеми этими штуками и со всякими другими тоже.
+	  </p>
+	  <h2>Связаться:</h2>
+	  <p><a href="mailto:magicpurplecow@gmail.com">magicpurplecow@gmail.com</a></p>
         </div>
       </div>
     </div>
+   
+
   </body>
 </html>
