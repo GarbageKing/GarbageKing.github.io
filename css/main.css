@@ -53,6 +53,11 @@ color: #fff;
 margin-top: 20px;
 }
 
+.footer p
+{
+ margin-bottom:0;
+}
+
 .poetry-title, .poetry
 {
 text-align:center;
