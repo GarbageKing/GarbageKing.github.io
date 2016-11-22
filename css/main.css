@@ -6,7 +6,7 @@
  margin: 0 auto;
 }
 
-.navbar
+.navbar, .footer
 {
 background-color: #391A5A;
 }
@@ -44,6 +44,11 @@ height: 300px;
 {
 text-align:justify;
 }*/
+
+.footer
+{
+height:50px;
+}
 
 .poetry-title, .poetry
 {
