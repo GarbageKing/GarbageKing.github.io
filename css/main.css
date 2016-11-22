@@ -1,10 +1,7 @@
 body {
-    text-align: center;
-    font-family: Courier, "Courier New", monospace;
-    background-color: #E3D2EA;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
 }
