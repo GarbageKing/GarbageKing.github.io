@@ -40,7 +40,12 @@ height: 300px;
 overflow: auto;
 }
 
-#learning img
+#projects
+{
+text-align:center;
+}
+
+#learning img, #projects img
 {
 width:100%;
 height: auto;
