@@ -51,6 +51,11 @@ width:100%;
 height: auto;
 }
 
+#projects img
+{
+border: 1px solid;
+}
+
 #learning .col-md-4
 {
 height: 300px;
