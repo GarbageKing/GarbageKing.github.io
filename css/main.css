@@ -57,6 +57,8 @@ display:block;
 width:50%;
 height: auto;
 border: 1px solid;
+margin-left: auto;
+margin-right: auto;
 }
 
 #learning .col-md-4
