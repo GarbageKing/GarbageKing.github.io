@@ -45,7 +45,7 @@ overflow: auto;
 text-align:center;
 }
 
-#learning img, #projects img
+#learning img
 {
 width:100%;
 height: auto;
@@ -53,6 +53,8 @@ height: auto;
 
 #projects img
 {
+width:50%;
+height: auto;
 border: 1px solid;
 }
 
