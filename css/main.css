@@ -102,7 +102,7 @@ border-bottom:none;
 border-right:none;
 }
 
-#jobs .col-md-4:nth-child(3), .col-md-4:nth-child(4)
+#jobs .col-md-4:nth-child(3), #jobs .col-md-4:nth-child(4)
 {
 border-bottom:none;
 }
