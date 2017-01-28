@@ -114,6 +114,12 @@ border-right:none;
 
 }
 
+#misc img
+{
+width: 100%;
+height: auto;
+}
+
 @media (max-width:991px){
 
 #jobs .col-md-4:not(:last-child) 
