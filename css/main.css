@@ -96,7 +96,7 @@ text-align:center;
 
 @media (min-width:992px){
 
-#jobs .col-md-4:nth-child(1), #jobs .col-md-4:nth-child(2)
+#jobs .col-md-4:nth-child(1), #jobs .col-md-4:nth-child(2), #jobs .col-md-4:nth-child(5)
 {
 border-bottom:none;
 border-right:none;
@@ -107,7 +107,7 @@ border-right:none;
 border-bottom:none;
 }
 
-#jobs .col-md-4:nth-child(4), #jobs .col-md-4:nth-child(5)
+#jobs .col-md-4:nth-child(4), #jobs .col-md-4:nth-child(7)
 {
 border-right:none;
 }
